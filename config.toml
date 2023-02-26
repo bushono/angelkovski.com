@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "angelkovski-com.pages.dev"
 title        = "Goran Angelkovski blog..."
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -59,3 +59,7 @@ paginate     = 10
     identifier = "contact"
     name       = "Contact"
     url        = "/contact"
+
+[[params.social]]
+  name = "Twitter"
+  url = "https://twitter.com/bushono"
