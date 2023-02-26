@@ -1,7 +1,7 @@
 baseurl      = "angelkovski-com.pages.dev"
 title        = "Goran Angelkovski blog..."
 languageCode = "en-us"
-theme        = "hello-friend-ng"
+theme        = "risotto"
 paginate     = 10
 
 [params]
