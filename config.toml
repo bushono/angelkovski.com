@@ -10,6 +10,16 @@ paginate     = 10
   dateformNum     = "2000-01-01"
   dateformNumTime = "2000-01-01 00:01"
 
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # OS theme is default when not provided, but you can force it to "light" or "dark"
+  defaultTheme = "dark"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+
   # Subtitle for home
   homeSubtitle = "A simple and beautiful blog"
 
