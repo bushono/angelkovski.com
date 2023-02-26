@@ -1,5 +1,5 @@
 baseurl      = "localhost"
-title        = "My Blog"
+title        = "My Personal Blog "
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
